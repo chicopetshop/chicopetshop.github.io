@@ -1,0 +1,29 @@
+* {
+	font-family: monospace;
+}
+body {
+	background-color: #222;
+	margin: 0px;
+}
+#header {
+	background-color: #333;
+	padding: 10px;
+}
+.item {
+	margin: 10px auto;
+	background-color: #456;
+	color: #ccc;
+	max-width: 300px;
+	padding: 5px;
+}
+.item .name {
+	font-weight: bold;
+	font-size: 16px;
+}
+#list {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.item.empty-inventory {
+	background-color: #633;
+}

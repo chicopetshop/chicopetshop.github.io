@@ -1,0 +1,16 @@
+* Antibiótico
+
+!abc A
+bcd A
+!efg A
+pqr A
+!vwx A
+
+* Vacina
+
+abc V
+!bcd V
+efg V
+!pqr V
+vwx V
+
