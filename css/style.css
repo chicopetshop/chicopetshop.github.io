@@ -30,4 +30,6 @@ body {
 input,select {
 	background-color: #fff;
 	color: #000;
+	border: none;
+	height: 26px;
 }
