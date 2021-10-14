@@ -27,3 +27,7 @@ body {
 .item.empty-inventory {
 	background-color: #633;
 }
+input,select {
+	background-color: #fff;
+	color: #000;
+}
