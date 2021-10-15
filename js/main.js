@@ -70,7 +70,7 @@ $(document).ready(async () => {
 	const typesHTML = `<option value="0">Tudo</option>`
 		+ categories.map(({ name, id }) => `<option value="${id}">${name}</option>`);
 	$('select').html(typesHTML);
-	items.sort((a, b) => a.name < b.name ? -1 : a.name > b.name ? 1 : 0);
+	items.sort((a, b) => a.search < b.search ? -1 : a.search > b.search ? 1 : 0);
 	updateList(db);
 	$('select,input').on('input', () => {
 		updateList(db);
