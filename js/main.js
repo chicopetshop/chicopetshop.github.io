@@ -26,7 +26,7 @@ const getDB = async () => {
 		items.push({
 			name,
 			category,
-			inventory: line.startsWith('!'),
+			inventory: !line.startsWith('!'),
 			search,
 		});
 	}
