@@ -14,10 +14,10 @@ DIAZIPRIM SUSPENSÃO - 20ML
 DOXITEC 50MG - 16CP
 DOXITEC 100MG - 16CP
 DOXITEC 200MG - 16CP
+
 * Vacina
 
 abc V
-!bcd V
 efg V
 !pqr V
 vwx V
