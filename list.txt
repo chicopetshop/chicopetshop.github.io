@@ -1,7 +1,7 @@
 * Antibiótico
 
-!AGEMOXI CL 50MG
-!AGEMOXI CL 250MG
+*AGEMOXI CL 50MG
+*AGEMOXI CL 250MG
 !efg A
 pqr A
 !vwx A
