@@ -32,7 +32,7 @@ const getDB = async () => {
 	const items = [];
 	for (let line of lines) {
 		if (line.startsWith('*')) {
-			const names = line.substr(1).trim().split(/\s*\+\s*/);
+			const names = line.substr(1).trim().split(/\s*\/\s*/);
 			currentCategories = [];
 			for (let name of names) {
 				category = addCategory(name);
