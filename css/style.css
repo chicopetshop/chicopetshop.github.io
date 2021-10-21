@@ -33,3 +33,6 @@ input,select {
 	border: none;
 	height: 26px;
 }
+select {
+	width: 150px;
+}
